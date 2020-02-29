@@ -1,7 +1,7 @@
 AIK-Linux
 =========
 
-v1.6 
+v3.6 
 
 Main thread
 http://forum.xda-developers.com/showthread.php?t=2073775
