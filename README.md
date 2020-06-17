@@ -1,12 +1,13 @@
 AIK-Linux
 =========
 
-v3.6 
+v3.7
 
 Main thread
 http://forum.xda-developers.com/showthread.php?t=2073775
 
 Download link
-http://forum.xda-developers.com/attachment.php?attachmentid=2903179&d=1408422161
+https://forum.xda-developers.com/attachment.php?attachmentid=5024499&d=1590190221
 
-
+also see
+https://github.com/osm0sis/Android-Image-Kitchen/tree/AIK-Linux
