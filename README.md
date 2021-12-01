@@ -1,7 +1,7 @@
 AIK-Linux
 =========
 
-v3.7
+v3.8
 
 Main thread
 http://forum.xda-developers.com/showthread.php?t=2073775
